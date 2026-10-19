@@ -1,0 +1,7 @@
+{
+  "name": "time-estimate",
+  "displayName": "Time Estimate",
+  "version": "0.1.0",
+  "description": "A live countdown above the prompt showing how long Claude has left on your request",
+  "types": "./types/index.d.ts"
+}
