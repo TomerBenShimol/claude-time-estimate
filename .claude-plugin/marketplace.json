@@ -1,0 +1,5 @@
+{
+  "name": "time-estimate",
+  "owner": { "name": "tbs" },
+  "plugins": [{ "name": "time-estimate", "source": "./" }]
+}
